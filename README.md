@@ -52,7 +52,9 @@ Upload details or context of the case.
 Explore historical cases and suggestions for your scenario.
 Demo Videos
 🎥 Feature Overview: 
-https://github.com/rudra141/LegalMate-AI-Legal-Assistant/issues/1#issue-2693672938
+
+![WhatsApp Image 2024-11-20 at 7 47 18 PM](https://github.com/user-attachments/assets/d7a7419b-8a29-481a-9e0f-00b8d09098f5)
+
 
 🎥 Legal Documentation Maker: Watch Now
 
