@@ -51,7 +51,8 @@ Receive AI-driven, concise responses with reference materials.
 Upload details or context of the case.
 Explore historical cases and suggestions for your scenario.
 Demo Videos
-🎥 Feature Overview: Watch Now
+🎥 Feature Overview: 
+https://github.com/rudra141/LegalMate-AI-Legal-Assistant/issues/1#issue-2693672938
 
 🎥 Legal Documentation Maker: Watch Now
 
