@@ -56,11 +56,16 @@ Demo Videos
 ![WhatsApp Image 2024-11-20 at 7 47 18 PM](https://github.com/user-attachments/assets/d7a7419b-8a29-481a-9e0f-00b8d09098f5)
 
 
-🎥 Legal Documentation Maker: Watch Now
+🎥 Legal Documentation Maker: 
 
-🎥 Legal Chatbot in Action: Watch Now
 
-🎥 Case Analysis Tool: Watch Now
+!https://github.com/user-attachments/assets/69f9b64f-da96-47e5-852d-0b6c88f6dc34
+
+
+
+🎥 Legal Chatbot in Action: 
+
+🎥 Case Analysis Tool: 
 
 
 
