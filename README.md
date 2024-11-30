@@ -59,7 +59,7 @@ Demo Videos
 🎥 Legal Documentation Maker: 
 
 
-!https://github.com/user-attachments/assets/69f9b64f-da96-47e5-852d-0b6c88f6dc34
+https://github.com/user-attachments/assets/69f9b64f-da96-47e5-852d-0b6c88f6dc34
 
 
 
